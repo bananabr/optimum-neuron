@@ -1,6 +1,6 @@
 # Building AMI with Packer
 
-This directory contains the files for building AMI using [Packer](https://github.com/hashicorp/packer) that is later published as a AWS Marketplace asset.
+This directory contains the files for building AMI using [Packer](https://github.com/hashicorp/packer) that is later published as an AWS Marketplace asset.
 
 
 ## Folder Structure
